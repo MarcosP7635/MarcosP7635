@@ -29,7 +29,7 @@ Summer Undergraduate Research Fellowship and 8 month paid internship with both t
 </p>
 <p id="ETLab">[2]
 Summer Undergraduate Research Fellowship with the <a href="https://etlab.caltech.edu/">Exoplanet Technology (ET) Lab</a> at Caltech and photonics subgroup at the <a href="https://jpl.nasa.gov">NASA Jet Propulsion Laboratory (JPL)</a> managed by <a href="https://caltech.edu/">Caltech</a>. Mentored for nearly a year by Dr. Pradip Gatkine, 
-Research Scientist Nemanja Jovanovic, Professor Dimitri Mawet, and the rest of the ET Lab. 
+Lead Instrument Scientist Nem Jovanovic, Professor Dimitri Mawet, and the rest of the ET Lab. 
 </p>
 <!---
 MarcosP7635/MarcosP7635 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
