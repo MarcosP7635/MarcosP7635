@@ -24,7 +24,7 @@ Presented at American Geophysical Union (AGU 2020). <a href="https://agu.confex.
 <a href="https://youtu.be/d9Lb9w0g7jg">2020 SURF Presentation</a> <a href="#LTB">[1]</a>
 <h2>Fellowships and Internships</h2>
 <p id="LTB">[1]
-Summer Undergraduate Research Fellowship and 8 month paid internship with both the <a href="https://ehlmann.caltech.edu/">Ehlmann Research Group at Caltech</a>
+Summer Undergraduate Research Fellowship and 8 month paid internship with both the <a href="http://www.ehlmann.caltech.edu/">Ehlmann Research Group at Caltech</a>
  and <a href="https://trailblazer.caltech.edu/">Lunar Trailblazer NASA mission</a>. Mentored by Professor Bethany Ehlmann, Jasper Miura, Jay Dickson, Dr. Eva Linghan Scheller, and the rest of the Ehlmann Research Group and Lunar Trailblazer science team.
 </p>
 <p id="ETLab">[2]
