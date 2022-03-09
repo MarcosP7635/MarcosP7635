@@ -28,7 +28,7 @@ Summer Undergraduate Research Fellowship and 8 month paid internship with both t
  and <a href="https://trailblazer.caltech.edu/">Lunar Trailblazer NASA mission</a>. Mentored by Professor Bethany Ehlmann, Jasper Miura, Jay Dickson, Dr. Eva Linghan Scheller, and the rest of the Ehlmann Research Group and Lunar Trailblazer science team.
 </p>
 <p id="ETLab">[2]
-Summer Undergraduate Research Fellowship with the <a href="https://etlab.caltech.edu/">Exoplanet Technology (ET) Lab</a> at Caltech and photonics subgroup at the <a href="https://jpl.nasa.gov">NASA Jet Propulsion Laboratory (JPL)</a> managed by <a href="https://caltech.edu/">Caltech</a>. Mentored for nearly a year by Dr. Pradip Gatkine, 
+Summer Undergraduate Research Fellowship with the <a href="https://etlab.caltech.edu/">Exoplanet Technology (ET) Lab</a> at Caltech and photonics subgroup at the <a href="https://jpl.nasa.gov">NASA Jet Propulsion Laboratory (JPL)</a> managed by <a href="https://caltech.edu/">Caltech</a>. Mentored for 9 months by Dr. Pradip Gatkine, 
 Lead Instrument Scientist Nem Jovanovic, Professor Dimitri Mawet, and the rest of the ET Lab. 
 </p>
 <!---
