@@ -5,6 +5,7 @@ I am Marcos Perez, a third year undergraduate at Caltech majoring in Planetary S
 *equal contribution from Pradip Gatkine<br />
 "Simulating the Study of Exoplanets Using Photonic Spectrographs" <a href="#ETLab">[2]</a><br />
 Published through SPIE Proceedings (SPIE OPTO 2022). <a href="https://doi.org/10.1117/12.2610355">doi:10.1117/12.2610355</a>
+
 <a href="https://arxiv.org/pdf/2203.10153"> Open-access full text PDF on arXiv.org </a>
 <br />
 
