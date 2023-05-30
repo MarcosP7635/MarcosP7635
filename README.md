@@ -1,5 +1,5 @@
 <h1>Brief Introduction</h1>
-I am Marcos Perez, a second year undergraduate at Caltech majoring in Planetary Science. These are code repositories I have written for software intensive research internships and Caltech classes. Each repository contains its own internal documentation. 
+I am Marcos Perez, a second year undergraduate at Caltech majoring in astrophysics. These are code repositories I have written for software intensive research internships and Caltech classes. Each repository contains its own internal documentation. 
 <h1>Research</h1>
 <h2>Published Paper (First Author*)</h2>
 *equal contribution from Pradip Gatkine<br />
