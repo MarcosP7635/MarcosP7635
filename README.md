@@ -1,5 +1,7 @@
 <h1>Brief Introduction</h1>
-I am Marcos Perez, a junior undergraduate student at Caltech majoring in astrophysics, and formerly majored in planetary science. These are code repositories I have written for software intensive research internships and Caltech classes. Each repository contains its own internal documentation. 
+I am Marcos Perez, formerly a junior (by classes completed) undergraduate student at Caltech majoring in astrophysics, and at first, planetary science. I recently founded a startup named Ultra Electrics LLC, which will have its own website that I will link to soon. We will use safe and proven methods to store over 100 times the energy per kilogram of lithium ion batteries. 
+
+These are code repositories I have written for previous software intensive research internships and Caltech classes. Each repository contains its own internal documentation. 
 <h1>Research</h1>
 <h2>Published Paper (First Author*)</h2>
 *equal contribution from Pradip Gatkine<br />
