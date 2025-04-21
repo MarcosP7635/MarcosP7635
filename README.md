@@ -1,5 +1,5 @@
 <h1>Brief Introduction</h1>
-I am Marcos Perez, formerly a junior (3 years of classes completed) undergraduate student at Caltech majoring in astrophysics, and at first, planetary science. I recently founded a startup named Ultra Electrics LLC, which will have its own website that I will link to soon. We will use safe and proven methods to store over 100,000 times more energy per kilogram of lithium ion batteries for stationary batteries and over 100 times more energy per kilogram for portable batteries. 
+I am Marcos Perez, formerly a junior (3rd year by classes completed) undergraduate student at Caltech majoring in astrophysics, and at first, planetary science. I recently founded a startup named Ultra Electrics LLC, which will have its own website that I will link to soon. We will use safe and proven methods to store over 100,000 times more energy per kilogram of lithium ion batteries for stationary batteries and over 100 times more energy per kilogram for portable batteries. 
 
 These are code repositories I have written for previous software intensive research internships and Caltech classes. Each repository contains its own internal documentation. 
 <h1>Research</h1>
